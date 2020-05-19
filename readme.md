@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="">
+  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/CRUD/img/Capa.png">
 </p>
 
 ## Desenvolvedor:
 
-[<img src="https://avatars3.githubusercontent.com/u/30157522?s=460&u=30d3397df3e4655b6fa8047ac27052569cf7db78&v=4" width=115><br><sub>Bee Bones</sub>](https://github.com/iurygdeoliveira) |
+[<img src="https://avatars3.githubusercontent.com/u/30157522?s=460&u=30d3397df3e4655b6fa8047ac27052569cf7db78&v=4" width=115><br><sub>Iury Gomes de Oliveira</sub>](https://github.com/iurygdeoliveira) |
 
-## Descrição do Repositorio (Description of the Repository) :star:
+## Descrição do Repositorio (Description of the Repository)
 
 <p align="justify"> Diversos Projetos FrontEnd </p>
 <p align="justify"> Various FrontEnd projects </p>
