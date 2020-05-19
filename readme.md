@@ -16,16 +16,17 @@
 #### Status
 
 > Status do Projeto: Concluido :heavy_check_mark:
+
 > Project Status: Concluded :heavy_check_mark:
 
 #### Descrição
 
 > Descrição do Projeto: Realiza as operações de CRUD utilizando HTML, CSS e JS
+
 > Project Description: Performs CRUD operations using HTML, CSS and JS
 
 #### Demonstração em Vídeo
 
 > Link para vídeo demonstrativo:
-> Demo video link :
 
-#### Código em Execução
+> Demo video link :
