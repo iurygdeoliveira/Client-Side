@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/CRUD/img/Capa.png">
+  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/Capa.jpg">
 </p>
 
 ## Desenvolvedor:
@@ -11,13 +11,21 @@
 <p align="justify"> Diversos Projetos FrontEnd </p>
 <p align="justify"> Various FrontEnd projects </p>
 
-### CRUD
+### 1º Projeto: CRUD
+
+#### Status
 
 > Status do Projeto: Concluido :heavy_check_mark:
 > Project Status: Concluded :heavy_check_mark:
 
+#### Descrição
+
 > Descrição do Projeto: Realiza as operações de CRUD utilizando HTML, CSS e JS
 > Project Description: Performs CRUD operations using HTML, CSS and JS
 
+#### Demonstração em Vídeo
+
 > Link para vídeo demonstrativo:
 > Demo video link :
+
+#### Código em Execução
