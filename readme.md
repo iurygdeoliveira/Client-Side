@@ -2,7 +2,7 @@
   <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/Capa.jpg">
 </p>
 
-## Desenvolvedor:
+## Desenvolvedor (Developer):
 
 [<img src="https://avatars3.githubusercontent.com/u/30157522?s=460&u=30d3397df3e4655b6fa8047ac27052569cf7db78&v=4" width=115><br><sub>Iury Gomes de Oliveira</sub>](https://github.com/iurygdeoliveira) |
 
@@ -11,42 +11,16 @@
 <p align="justify"> Diversos Projetos FrontEnd </p>
 <p align="justify"> Various FrontEnd projects </p>
 
-### 1º Projeto: CRUD
+## Sumário (Summary)
 
-#### Status
+### 2º Aplicação (2º Application): CORES (19/05/2020)
 
-> Status do Projeto: Concluido :heavy_check_mark:
+#### Link para o Código (Link to code)
 
-> Project Status: Concluded :heavy_check_mark:
+> https://github.com/iurygdeoliveira/Front-End/tree/master/CORES
 
-#### Descrição
+### 1º Aplicação (1º Application): CRUD (18/05/2020)
 
-> Descrição do Projeto: Realiza as operações de CRUD utilizando HTML, CSS e JS
+#### Link para o Código (Link to code)
 
-> Project Description: Performs CRUD operations using HTML, CSS and JS
-
-#### Demonstração em Vídeo
-
-> Link para vídeo demonstrativo: https://youtu.be/2V3UKBdIcZY
-
-> Demo video link : https://youtu.be/2V3UKBdIcZY
-
-### 2º Projeto: CORES
-
-#### Status
-
-> Status do Projeto: Concluido :heavy_check_mark:
-
-> Project Status: Concluded :heavy_check_mark:
-
-#### Descrição
-
-> Descrição do Projeto: Realiza alteração das cores de acordo com o range informado
-
-> Project Description: Changes of colors according to the informed range
-
-#### Demonstração em Vídeo
-
-> Link para vídeo demonstrativo: https://youtu.be/JKgDOZp7rRQ
-
-> Demo video link : https://youtu.be/JKgDOZp7rRQ
+> https://github.com/iurygdeoliveira/Front-End/tree/master/CRUD
