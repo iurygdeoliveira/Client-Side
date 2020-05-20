@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <title>CORES</title>
+  </head>
+  <body>
+    <h1>
+      UTILIZANDO HTML, CSS E JAVASCRIPT PURO PARA CONSTRUIR UM QUADRADO DE CORES
+    </h1>
+
+    <!-- Input para a cor Vermelha -->
+    <table border="1">
+      <thead>
+        <tr>
+          <th>(R) Vermelho</th>
+          <th>(G) Verde</th>
+          <th>(B) Azul</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <input
+              class="RangeRed"
+              id="InputRed"
+              type="range"
+              value="130"
+              min="0"
+              max="255"
+              step="1"
+            />
+          </td>
+          <td>
+            <input
+              class="RangeGreen"
+              id="InputGreen"
+              type="range"
+              value="130"
+              min="0"
+              max="255"
+              step="1"
+            />
+          </td>
+          <td>
+            <input
+              class="RangeBlue"
+              id="InputBlue"
+              type="range"
+              value="130"
+              min="0"
+              max="255"
+              step="1"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <input
+              id="ResultRed"
+              type="text"
+              style="text-align: center;"
+              readonly
+            />
+          </td>
+          <td>
+            <input
+              id="ResultGreen"
+              type="text"
+              style="text-align: center;"
+              readonly
+            />
+          </td>
+          <td>
+            <input
+              id="ResultBlue"
+              type="text"
+              style="text-align: center;"
+              readonly
+            />
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <div class="Content"></div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <script src="script.js"></script>
+  </body>
+</html>

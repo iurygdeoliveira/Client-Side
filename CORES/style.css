@@ -1,0 +1,97 @@
+.RangeRed {
+  -webkit-appearance: none;
+  width: 90%;
+  margin: 5%;
+  height: 8px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+.RangeRed::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: red;
+  cursor: pointer;
+}
+
+.RangeRed::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: red;
+  cursor: pointer;
+}
+
+.RangeGreen {
+  -webkit-appearance: none;
+  width: 90%;
+  margin: 5%;
+  height: 8px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+.RangeGreen::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: green;
+  cursor: pointer;
+}
+
+.RangeGreen::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: green;
+  cursor: pointer;
+}
+
+.RangeBlue {
+  -webkit-appearance: none;
+  width: 90%;
+  margin: 5%;
+  height: 8px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+.RangeBlue::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: blue;
+  cursor: pointer;
+}
+
+.RangeBlue::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: blue;
+  cursor: pointer;
+}
+
+.Content {
+  padding: 20px;
+  margin: 3%;
+}
