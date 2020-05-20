@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/CRUD/img/Capa.png">
+  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/CORES/img/Capa.png">
 </p>
 
 ## Desenvolvedor:
@@ -10,9 +10,9 @@
 
 #### Status
 
-> Status do Projeto: Em produção ...
+> Status do Projeto: Concluido :heavy_check_mark:
 
-> Project Status: In production
+> Project Status: Concluido :heavy_check_mark:
 
 #### Descrição
 

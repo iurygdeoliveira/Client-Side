@@ -30,3 +30,23 @@
 > Link para vídeo demonstrativo: https://youtu.be/2V3UKBdIcZY
 
 > Demo video link : https://youtu.be/2V3UKBdIcZY
+
+### 2º Projeto: CORES
+
+#### Status
+
+> Status do Projeto: Concluido :heavy_check_mark:
+
+> Project Status: Concluded :heavy_check_mark:
+
+#### Descrição
+
+> Descrição do Projeto: Realiza alteração das cores de acordo com o range informado
+
+> Project Description: Changes of colors according to the informed range
+
+#### Demonstração em Vídeo
+
+> Link para vídeo demonstrativo:
+
+> Demo video link :
