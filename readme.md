@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/Capa.jpg">
-</p>
+![]Capa.jpg
 
 ## Desenvolvedor (Developer):
 
@@ -13,14 +11,7 @@
 
 ## Sumário (Summary)
 
-### 2º Aplicação (2º Application): CORES (19/05/2020)
+2. App: [CORES](https://github.com/iurygdeoliveira/Front-End/tree/master/CORES)
+   https://github.com/iurygdeoliveira/Front-End/tree/master/CORES (19/05/2020)
 
-#### Link para o Código (Link to code)
-
-> https://github.com/iurygdeoliveira/Front-End/tree/master/CORES
-
-### 1º Aplicação (1º Application): CRUD (18/05/2020)
-
-#### Link para o Código (Link to code)
-
-> https://github.com/iurygdeoliveira/Front-End/tree/master/CRUD
+1. App: [CRUD](https://github.com/iurygdeoliveira/Front-End/tree/master/CRUD) https://github.com/iurygdeoliveira/Front-End/tree/master/CRUD (18/05/2020)
