@@ -12,6 +12,8 @@ Diversos Projetos Front-End (Various Front-End projects)
 
 ## Sumário dos Projetos (Summary of projects)
 
+- Projeto ARROW FUNCTIONS: https://github.com/iurygdeoliveira/Front-End/tree/master/ARROW%20FUNCTIONS (23/05/2020)
+
 - Projeto CORES: https://github.com/iurygdeoliveira/Front-End/tree/master/CORES (19/05/2020)
 
 - Projeto CRUD: https://github.com/iurygdeoliveira/Front-End/tree/master/CRUD (18/05/2020)

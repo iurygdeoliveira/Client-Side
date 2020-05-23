@@ -21,14 +21,14 @@ const sum4 = (a, b) => a + b;
 // chamado people. Dentro do objeto people existe
 // um vetor result
 window.addEventListener('load', () => {
-  // doMap();
-  // doFilter();
-  // doForEach();
-  // doReduce();
-  // doFind();
-  // doSome();
-  // doEvery();
-  // doSort();
+  doMap();
+  doFilter();
+  doForEach();
+  doReduce();
+  doFind();
+  doSome();
+  doEvery();
+  doSort();
 });
 
 // Para cada posição do Vetor Results, retornar

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/CRUD/img/Capa.png">
+  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/ARROW%20FUNCTIONS/img/Capa.png">
 </p>
 
 ## Desenvolvedor (Developer):
@@ -22,6 +22,6 @@
 
 #### Demonstração em Vídeo (Video Demo)
 
-> Link para vídeo demonstrativo:
+> Link para vídeo demonstrativo: https://youtu.be/DTQDTX1dr1c
 
-> Demo video link :
+> Demo video link : https://youtu.be/DTQDTX1dr1c
