@@ -1,4 +1,6 @@
-![](Capa.jpg)
+<p align="center">
+  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/Capa.jpg">
+</p>
 
 ## Desenvolvedor (Developer):
 
@@ -6,7 +8,7 @@
 
 ## Descrição do Repositorio (Description of the Repository)
 
-Diversos Projetos Front-End (Various FrontEnd projects)
+Diversos Projetos Front-End (Various Front-End projects)
 
 ## Sumário dos Projetos (Summary of projects)
 
