@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/ARROW%20FUNCTIONS/img/Capa.png">
+  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/RADIO%20PODCAST/img/Capa.jpg">
 </p>
 
 ## Desenvolvedor (Developer):
