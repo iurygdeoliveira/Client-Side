@@ -1,0 +1,42 @@
+#inputRange {
+  max-width: 500px;
+}
+
+.radio {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.frequency {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.display {
+  text-align: center;
+}
+
+#inputDisplay {
+  max-width: 200px;
+  text-align: center;
+  border: 1px solid lightgray;
+  color: #333;
+}
+
+.podcast {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  border: 1px solid lightgray;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+
+.podcastAvatar {
+  width: 100px;
+  height: 100px;
+}
