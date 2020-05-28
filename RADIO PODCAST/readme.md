@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/RADIO%20PODCAST/img/Capa.jpg">
+  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/RADIO%20PODCAST/img/RADIO%20PODCASTS.jpg">
 </p>
 
 ## Desenvolvedor (Developer):

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/CRUD/img/Capa.png">
+  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/CRUD/img/CRUD.jpg">
 </p>
 
 ## Desenvolvedor (Developer):

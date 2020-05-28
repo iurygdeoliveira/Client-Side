@@ -16,9 +16,9 @@
 
 #### Descrição (Description)
 
-> Descrição do Projeto: Demonstra a manipulação de vetores com JavaScript
+> Descrição do Projeto: Demonstra a manipulação de vetores com arrow functions
 
-> Project Description: Demonstrates vector manipulation with JavaScript
+> Project Description: Demonstrates vector manipulation with arrow functions
 
 #### Demonstração em Vídeo (Video Demo)
 

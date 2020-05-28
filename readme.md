@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/Capa.jpg">
+  <img src="https://github.com/iurygdeoliveira/Front-End/blob/master/CAPA%20PRINCIPAL.jpg">
 </p>
 
 ## Desenvolvedor (Developer):
@@ -9,6 +9,10 @@
 ## Descrição do Repositorio (Description of the Repository)
 
 Diversos Projetos Front-End (Various Front-End projects)
+
+## Demonstração em Vídeo (Video Demo)
+
+> Link para playlist: https://www.youtube.com/playlist?list=PLzfUA2OOnk-hYQscvIy-bacIwrQTugoof
 
 ## Sumário dos Projetos (Summary of projects)
 
