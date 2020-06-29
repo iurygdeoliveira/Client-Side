@@ -16,7 +16,7 @@ Diversos Projetos Front-End (Various Front-End projects)
 
 ## Sumário dos Projetos (Summary of projects)
 
-- Projeto Juros Compostos: (28/06/2020)
+- Projeto Juros Compostos: https://github.com/iurygdeoliveira/Front-End/tree/master/JUROS%20COMPOSTOS (28/06/2020)
 
 - Projeto Pesquisa de Usuários: https://github.com/iurygdeoliveira/Front-End/tree/master/PESQUISA%20DE%20USUARIOS (28/05/2020)
 
