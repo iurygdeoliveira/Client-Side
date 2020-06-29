@@ -10,9 +10,9 @@
 
 #### Status
 
-> Status do Projeto: Incompleto :heavy_check_mark:
+> Status do Projeto: Incompleto :x:
 
-> Project Status: Incompleto :heavy_check_mark:
+> Project Status: Incompleto :x:
 
 #### Descrição (Description)
 
