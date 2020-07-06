@@ -1,5 +1,5 @@
 <p align="center">
-  
+  <img src="https://github.com/iurygdeoliveira/Client-Side/blob/master/JUROS%20COMPOSTOS/img/JUROS%20COMPOSTOS.jpg">
 </p>
 
 ## Desenvolvedor (Developer):
